@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(245, 220, 187);
+    font-family: 'Bangla', sans-serif;
+    padding: 15px 5px 15px 5px;
+    text-align: justify;
+    
+
+}
+h1{
+    text-align: center;
+    background-color: red;
+    padding: 10px;
+
+}
+h2{
+    color: royalblue;
+}
+h3{
+    color: rgb(235, 135, 210);
+}
+ul{
+    color: red;
+}
+h4{
+    color: red;
+    text-align: center;
+
+}
